@@ -1,0 +1,29 @@
+{
+  "pairs": [
+    {
+      "key": "appName",
+      "value": "GOMS",
+      "osEnv": true
+    },
+    {
+      "key": "environment",
+      "value": "dev",
+      "osEnv": true
+    },
+    {
+      "key": "graylogAddress",
+      "value": "0.0.0.0:9000",
+      "osEnv": true
+    },
+    {
+      "key": "elasticEmailAPIKey",
+      "value": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "osEnv": true
+    },
+    {
+      "key": "databaseConnectionString",
+      "value": "user:password@tcp(0.0.0.0:portnumber)/databasename",
+      "osEnv": true
+    }
+  ]
+}
