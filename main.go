@@ -6,8 +6,6 @@ import (
 	"github.com/go-sql-driver/mysql"
 	"github.com/gorilla/mux"
 	"github.com/miguelpragier/microconfig"
-	"github.com/prometheus/common/log"
-	"gitlab.com/openvistacode/mysqlkebab"
 
 	"os"
 	"path/filepath"
